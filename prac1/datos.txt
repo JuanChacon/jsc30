@@ -1,0 +1,4 @@
+const el valor puede ser reasignado, es un prototype
+led-
+var-
+---declarar variables---

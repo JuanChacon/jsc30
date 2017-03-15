@@ -1,0 +1,28 @@
+Flex: 
+toggleOpen---funcion que se abra o expanda
+toggleActive
+*, *:before, *:after {
+      box-sizing: inherit;
+    }
+
+seleccion del estilo que se selecciono, despues de que se renderizo la pagina, despues de que se ejecute el codigo enseguida se ejecuta el after.
+*--habla a todas las etiquetas del body, before-- antes de que metas las etiquetas aplicale el estilo,
+despues de hacer eso tambien aplicale el estilo.
+
+#hola{}-- nombre de identificadores, solo se usa una vez
+.hola{}--- a cualquiera que le declare esa clase
+p{} cualquier p dentro del dump, tendra ese estilo.
+
+
+sobrecarga de clases-- usar varios estilos en la pagina, pero predomina la ultima la clase.
+
+<a href = "www.">
+<div class = "panel panel 13">
+</div>
+</a>
+
+constante contador de clicks
+if(cons==2){toggleOPen(){count=0}
+timeout()
+window.open("url");
+}

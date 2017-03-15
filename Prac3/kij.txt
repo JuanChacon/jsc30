@@ -1,0 +1,10 @@
+<!--`--${this.name} template-->
+
+bomp --- objetos.
+
+document.querySelectorAll('.controls input');--- trae todos los archivos de tipo input
+
+ const suffix = this.dataset.sizing || '';---traeme en nivel o el valor en el que este
+$-- genera estructura de html, lo comvierte en variable
+
+rootem--rem---agarra con respecto al padre
